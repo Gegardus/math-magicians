@@ -2,9 +2,9 @@
 
 # Math Magicians
 
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations.This is the first project of the Math Magicians application, implementation of set up the environment and tools needed to develop a React application. 
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations.This is the second part of a project that has developed a React component that will contain the core functionality: the calculator.
 
-<!-- ![screenshot](./src/images/app_screenshot1.png) -->
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](Not available yet)
+[Live Demo Link](Not Available Yet)
 
 ## Getting Started
 
@@ -44,7 +44,7 @@ Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/
 
 ## Acknowledgements
 
-The authors highly appreciate the help in the project from all the participants of this week's program for the timely response to all questions from our team.
+The authors highly appreciate the help in the project from all the participants of this week's program for the timely response to all questions.
 
 ## 📝 License
 
