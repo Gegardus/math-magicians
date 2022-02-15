@@ -1,21 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Title
+# Math Magicians
 
-Math Magicians
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations.This is the second part of a project that has developed a React component that will contain the core functionality: the calculator.
 
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations.This is the first project of the Math Magicians application, implementation of set up the environment and tools needed to develop a React application. 
-
-<!-- ![screenshot](./src/images/app_screenshot1.png)
-![screenshot](./src/images/app_screenshot2.png) -->
+![screenshot](./app_screenshot.png)
 
 ## Built With
 
 - React
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://gegardus.github.io/JS-Capstone-Webapp/) -->
+[Live Demo Link](Not Available Yet)
 
 ## Getting Started
 
@@ -23,7 +20,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
-clone repo: `https://github.com/Gegardus/math-magicians/tree/setup`
+clone repo: `https://github.com/Gegardus/math-magicians/tree/components`
 
 then
 `cd math-magicians`
@@ -36,7 +33,7 @@ run `npm install` to install dependencies
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/tree/setup/issues)
+Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/issues)
 
 ## Author
 
@@ -47,7 +44,7 @@ Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/
 
 ## Acknowledgements
 
-The authors highly appreciate the help in the project from all the participants of this week's program for the timely response to all questions from our team.
+The authors highly appreciate the help in the project from all the participants of this week's program for the timely response to all questions.
 
 ## 📝 License
 
