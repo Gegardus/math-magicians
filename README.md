@@ -2,7 +2,7 @@
 
 # Math Magicians
 
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations. In this third part of the project, the logic necessary for the Calculator component to actually work has been added.
+> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations. In this fourth part of the project, the Calculator component developed in previous projects has been redesigned. Instead of using class-based components, hooks are now used.
 
 ![screenshot](./app_screenshot.png)
 
