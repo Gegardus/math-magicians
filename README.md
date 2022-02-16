@@ -20,14 +20,15 @@ To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
-clone repo: `https://github.com/Gegardus/math-magicians.git`
+- clone repo: `https://github.com/Gegardus/math-magicians.git`
 
-then
-`cd math-magicians`
+- then `cd math-magicians`
 
 ### Install
 
-run `npm install` to install dependencies
+- run `npm install` to install dependencies
+
+- run `npm start` to enable webpack live server
 
 ## Contribute
 
