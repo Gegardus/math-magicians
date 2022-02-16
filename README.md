@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Prerequisites
 
-clone repo: `https://github.com/Gegardus/math-magicians/tree/components`
+clone repo: `https://github.com/Gegardus/math-magicians.git`
 
 then
 `cd math-magicians`
