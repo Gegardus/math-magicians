@@ -4,14 +4,14 @@ import './Calculator.css';
 
 const Calculator = () => {
   const [state, setState] = useState({});
- 
+
   const handleClick = (e) => {
     setState(calculate(state, e.target.textContent));
   };
 
   const { next, total } = state;
   return (
-      <main>
+    <main>
         <div className="output"><p className="display">{next || total || 0}</p></div>
         <div className="buttons">
           <button className="btn" type="button" onClick={handleClick}>AC</button>
@@ -43,7 +43,7 @@ const Calculator = () => {
           <button className="btn end" type="button" onClick={handleClick}>=</button>
         </div>
       </main>
-    );
-  };
+  );
+};
 
 export default Calculator;
