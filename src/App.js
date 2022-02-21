@@ -6,16 +6,15 @@ import Header from './components/Header';
 import Home from './components/Home';
 import Quote from './components/Quote';
 
-
-const App = () =>  (
+const App = () => (
   <>
   <Header />
-  <Routes>
-  <Route path="/" element={(<Home />)} />
-  <Route path="/calculator" element={(<Calculator />)} />
-  <Route path="/quote" element={(<Quote />)} />
-  </Routes>
+    <Routes>
+    <Route path="/" element={(<Home />)} />
+    <Route path="/calculator" element={(<Calculator />)} />
+    <Route path="/quote" element={(<Quote />)} />
+    </Routes>
   </>
-  );
+);
 
 export default App;
