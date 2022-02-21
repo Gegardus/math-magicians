@@ -22,9 +22,9 @@ const Header = () => {
 
   return (
     <header className="header">
-        <h1 className="title">Math Magicians</h1>
-        <nav>
-            <ul className="menu">
+      <h1 className="title">Math Magicians</h1>
+      <nav>
+          <ul className="menu">
               {
                 links.map((link) => (
                   <li key={link.id}>
@@ -33,8 +33,8 @@ const Header = () => {
                 ))
               }
             </ul>
-          </nav>
-      </header>
+       </nav>
+    </header>
   );
 };
 
