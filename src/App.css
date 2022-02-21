@@ -51,7 +51,7 @@ body {
 }
 
 .home-quote {
-  font-size: 18px;
+  font-size: 1.2em;
   margin-left: 450px;
   margin-right: 150px;
 }
@@ -69,22 +69,23 @@ main {
 .prompt {
   margin-right: 50px;
   font-size: 1.1em;
-  font-weight: 600;
+  font-weight: 900;
   position: relative;
   right: 150px;
-  top: 35px;
+  top: 35px;  
 }
 
 .output {
   display: flex;
   align-self: flex-end;
   margin-right: 200px;
-  width: 400px;
+  width: 560px;
   background-color: gray;
 }
 
 .display {
-  margin-left: 370px;
+  position: relative;
+  left: 483px;
   color: #fff;
 }
 
@@ -97,7 +98,7 @@ main {
 .btn {
   background-color: #fff;
   padding: 20px;
-  width: 100px;
+  width: 140px;
   border: 1px solid rgb(206, 198, 198);
   cursor: pointer;
   font-weight: bold;
@@ -108,7 +109,7 @@ main {
 }
 
 .btn.zero {
-  width: 200px;
+  width: 280px;
 }
 
 /* QUOTE */
@@ -119,7 +120,7 @@ main {
 }
 
 .quote {
-  font-size: 20px;
+  font-size: 1.15em;
   margin-left: 450px;
   margin-right: 90px;
   margin-top: 120px;
