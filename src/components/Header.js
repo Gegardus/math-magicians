@@ -21,16 +21,16 @@ const Header = () => {
   ];
 
   return (
-      <header className="header">
+    <header className="header">
         <h1 className="title">Math Magicians</h1>
-          <nav>
+        <nav>
             <ul className="menu">
               {
                 links.map((link) => (
                   <li key={link.id}>
                     <NavLink to={link.path} className="item">{link.text}</NavLink>
                   </li>
-                  ))
+                ))
               }
             </ul>
           </nav>

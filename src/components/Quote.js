@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const Quote = () => (
   <main className="main">
@@ -7,7 +7,7 @@ const Quote = () => (
       spirit.. The supreme function of reason is to show man that some things
       are beyond reason.
       <b>
-        {" "}
+        {' '}
         — Blaise Pascal, French mathematician, physicist, inventor, writer and
         Christian philosopher.
       </b>
