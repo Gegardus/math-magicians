@@ -59,5 +59,5 @@ describe('implements calculations', () => {
     res = calculate(res, '2');
     res = calculate(res, '=');
     expect(res.total).toBe('-3');
-  });    
+  });
 });

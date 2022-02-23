@@ -9,7 +9,7 @@ const Quote = () => (
       <b>
          — Blaise Pascal, French mathematician, physicist, inventor, writer and
          Christian philosopher
-      </b>     
+      </b>
     </p>
   </main>
 );
