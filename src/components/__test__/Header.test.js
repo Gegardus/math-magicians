@@ -14,3 +14,4 @@ describe('Header tests', () => {
     expect(header).toMatchSnapshot();
   });
 });
+

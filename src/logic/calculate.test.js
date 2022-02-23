@@ -61,3 +61,4 @@ describe('implements calculations', () => {
         expect(res.total).toBe('-3');
       });    
 });
+
