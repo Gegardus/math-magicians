@@ -43,6 +43,14 @@ Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/
 - GitHub: [@githubhandle](https://github.com/Gegardus)
 - Twitter: [@twitterhandle](https://twitter.com/Gegardus)
 
+## Author
+
+👤 **Daniel Yerimah**
+
+- GitHub: [@yerimah](https://github.com/yerimah)
+- Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
+- LinkedIn: [@daniel-yerimah](https://www.linkedin.com/in/daniel-yerimah/)
+
 ## Acknowledgements
 
 The authors highly appreciate the help in the project from all the participants of this week's program for the timely response to all questions.
