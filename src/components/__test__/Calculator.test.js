@@ -22,8 +22,6 @@ describe('Calculator ui tests', () => {
     const equalBtn = screen.getByRole('button', { name: /=/i });
     fireEvent.click(equalBtn);
     const output = screen.getByTestId('total');
-
     expect(output).toHaveTextContent('64');
   });
-
 });

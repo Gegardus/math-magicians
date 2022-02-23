@@ -11,3 +11,4 @@ describe('Quote tests', () => {
     expect(tree).toMatchSnapshot();
   });
 });
+
