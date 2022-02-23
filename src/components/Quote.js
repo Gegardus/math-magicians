@@ -14,3 +14,4 @@ Christian philosopher</b>
 );
 
 export default Quote;
+

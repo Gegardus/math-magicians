@@ -5,7 +5,6 @@ import Calculator from '../Calculator';
 describe('Calculator ui tests', () => {
   test('should render ', () => {
     render(<Calculator />);
-
     const acBtn = screen.getByRole('button', { name: /ac/i });
     expect(acBtn).toBeInTheDocument();
   });
@@ -25,5 +24,5 @@ describe('Calculator ui tests', () => {
 
     expect(output).toHaveTextContent('64');
   });
-
 });
+
