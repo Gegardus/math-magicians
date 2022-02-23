@@ -25,5 +25,3 @@ describe('Calculator ui tests', () => {
     expect(output).toHaveTextContent('64');
   });
 });
-
-

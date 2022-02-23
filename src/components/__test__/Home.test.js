@@ -6,5 +6,3 @@ test('should contain p element ', () => {
   const element = screen.getByRole('heading', { name: /Welcome to our page!/i });
   expect(element).toMatchSnapshot();
 });
-
-
