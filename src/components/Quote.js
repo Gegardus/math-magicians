@@ -7,7 +7,7 @@ const Quote = () => (
       spirit.. The supreme function of reason is to show man that some things
       are beyond reason.
       <b>
-         — Blaise Pascal, French mathematician, physicist, inventor, writer and
+        — Blaise Pascal, French mathematician, physicist, inventor, writer and
          Christian philosopher
       </b>
     </p>
