@@ -30,6 +30,11 @@ To get a local copy up and running follow these simple example steps:
 
 - run `npm start` to enable webpack live server
 
+### Run tests
+
+- run `npm run test` to launch the test runner in the interactive watch mode.
+See the section [running tests](https://create-react-app.dev/docs/running-tests/) for more information.
+
 ## Contribute
 
 Contributions, issues, and feature requests are welcome!
