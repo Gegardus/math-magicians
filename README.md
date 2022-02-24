@@ -30,6 +30,10 @@ To get a local copy up and running follow these simple example steps:
 
 - run `npm start` to enable webpack live server
 
+### Run tests
+
+Run `npm run test` to launch the test runner in the interactive watch mode. <br> See the section [running tests](https://create-react-app.dev/docs/running-tests/) for more information.
+
 ## Contribute
 
 Contributions, issues, and feature requests are welcome!
@@ -42,6 +46,14 @@ Feel free to check the [issues page](https://github.com/Gegardus/math-magicians/
 
 - GitHub: [@githubhandle](https://github.com/Gegardus)
 - Twitter: [@twitterhandle](https://twitter.com/Gegardus)
+
+## Author
+
+👤 **Daniel Yerimah**
+
+- GitHub: [@yerimah](https://github.com/yerimah)
+- Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
+- LinkedIn: [@daniel-yerimah](https://www.linkedin.com/in/daniel-yerimah/)
 
 ## Acknowledgements
 
