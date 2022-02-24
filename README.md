@@ -32,8 +32,7 @@ To get a local copy up and running follow these simple example steps:
 
 ### Run tests
 
-- run `npm run test` to launch the test runner in the interactive watch mode.
-See the section [running tests](https://create-react-app.dev/docs/running-tests/) for more information.
+Run `npm run test` to launch the test runner in the interactive watch mode. <br> See the section [running tests](https://create-react-app.dev/docs/running-tests/) for more information.
 
 ## Contribute
 
