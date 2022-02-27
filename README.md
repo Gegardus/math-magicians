@@ -14,6 +14,8 @@
 
 [Heroku](https://stormy-ravine-17559.herokuapp.com/)
 
+[Netlify](https://621b7e84632f900007382f4c--inspiring-banach-df4707.netlify.app/)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps:
